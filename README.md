@@ -26,13 +26,6 @@ The Laptop Demand Estimation web app is designed to assist businesses in predict
 - K-Means Clustering: Used for demand estimation.
 - ARIMA Model: Utilized for sales forecasting.
 
-## Project Members
-
-The members of this project are:
-
-1. Shaik Safeena - Student ID: 4140
-2. Vagugandla Neelima - Student ID: 4172
-3. Pragnasya S - Student ID: 4151
 
 ## Features
 
