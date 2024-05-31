@@ -1,4 +1,4 @@
-# Business Demand Estimation Using Classification Based Prediction Model
+# Laptop Demand Estimation Using Classification Based Prediction Model
 
 This is a web application that utilizes Random Forest and K-Means Clustering for predicting laptop demand and employs an ARIMA model for forecasting future sales. The project is built using HTML, Bootstrap, Flask, MongoDB, and Jupyter Notebook.
 
@@ -13,7 +13,7 @@ This is a web application that utilizes Random Forest and K-Means Clustering for
 
 ## Overview
 
-The Business Demand Estimation web app is designed to assist businesses in predicting laptop demand and forecasting future sales. It employs machine learning models like Random Forest for classification-based prediction and K-Means Clustering for demand estimation. Additionally, it uses an ARIMA model for sales forecasting. The project aims to help businesses make informed decisions about laptop inventory and sales strategies.
+The Laptop Demand Estimation web app is designed to assist businesses in predicting laptop demand and forecasting future sales. It employs machine learning models like Random Forest for classification-based prediction and K-Means Clustering for demand estimation. Additionally, it uses an ARIMA model for sales forecasting. The project aims to help businesses make informed decisions about laptop inventory and sales strategies.
 
 ## Technologies Used
 
